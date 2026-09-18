@@ -1,4 +1,4 @@
-# Fine-Tuning LLM (LLMOps Pipeline) - Production ML Engineering Pipeline
+# Fine-Tuning LLMs - Production ML Engineering Pipeline (LLMOps)
 
 ## Table of Contents
 
